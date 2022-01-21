@@ -6,7 +6,7 @@
 
 # Download
 
-Coming very soon!
+Download [here](https://github.com/deflationz/HWID-Checker/releases/tag/Release), source code there as well.
 
 # Virus Check
 
