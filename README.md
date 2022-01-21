@@ -18,4 +18,4 @@ I am using pyperclip, subprocess, and os.
 
 # Credits
 
-I'm deflationz#7158 and I created this in about 15 minutes.
+I'm deflationz#7158 and I created this in about 15 minutes. Check out [DeflationzWare](https://discord.gg/XxsQzu738M) to become a tester get scripts early giveaways and more!
